@@ -108,8 +108,11 @@ justify-content: space-around;
     color: #1D3557;
 }
 #guide{
-    margin: 40px auto;
+    margin: 100px auto;
 }
 #p{
     font-style: italic;
+}
+#act{
+    margin-top: -4px;
 }
